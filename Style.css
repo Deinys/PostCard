@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    font-family: cursive;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.comment-enter{
+    display: flex;
+    justify-content: space-around;
+    border-color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.comment1{
+    margin-right: 40px;
+}
+.entrada{
+    margin-top: 20px;
+}
+.entrada input{
+    border: none;
+    border-bottom: 1px lightgrey solid;
+}
+.button1{
+    display: flex;
+    justify-content: center;
+}
